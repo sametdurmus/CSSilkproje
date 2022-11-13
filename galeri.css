@@ -1,0 +1,51 @@
+.container{
+    width: 20%;
+    box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.4);
+    border-radius: 6px;
+}
+.container:hover{
+    opacity: 0.7;
+}
+.icerik{
+    padding: 5px 20px;
+}
+img{
+    border-radius: 6px 6px 0 0;
+    margin-top: center;
+}
+p{
+    font-size: 19px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: rgb(25, 68, 184);
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: aqua;
+}
+li{
+    text-align: center;
+    list-style: none;
+}
+.center{
+    text-align: center;
+}
+.container{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+a{
+    text-align:center;
+    text-align:justify;
+    margin-left: 50%;
+}
